@@ -1,1 +1,1 @@
-![KaosuIDC's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaosuIDC&show_icons=true&theme=radical)
+![KaosuIDC's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaosuIDC&show_icons=true&theme=dark)
